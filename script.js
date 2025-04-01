@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const month = today.getMonth() + 1;
         const year = today.getFullYear();
         const imageNumber = (day + month + year) % 45 + 1;
-        const imagePath = `images/${imageNumber}.jpg`;
+        const imagePath = `${imageNumber}.jpg`;
 
         console.log("Wczytywanie obrazu:", imagePath);
         imgElement.src = imagePath;
