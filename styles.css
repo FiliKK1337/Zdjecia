@@ -1,0 +1,39 @@
+#pudlo{
+    border: black solid;
+    width: 1000px;
+    height: 720px;
+    text-align: center;
+    margin: auto;
+    padding-top: 25px;
+    color: #3A6351;
+    font-size: 250%;
+    clear: both;
+    align-items: center;
+    background-color: #F3EACB;
+}
+#gora
+{
+font-size: 100%;
+color: #A5BE00;
+text-align: center;
+padding-top: 25px;
+clear: both;
+
+}
+img{
+
+align-content: center;
+padding-top: 45px;    
+width: 400px;
+height: 470px;
+
+}
+#main
+{
+    background-image: url('pexels-souvenirpixels-417074.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    margin: 0;
+}
